@@ -29,6 +29,6 @@ A responsive coffee shop website.
 ### Smart AI Hospital
 Hospital management system with appointment and queue management.
 
-## Live Website
-**Website:**
-my-portfolio-rgovvja1m-kabila2.vercel.app
+## 🌐 Live Demo
+
+🔗 [View Portfolio](https://my-portfolio-rgovvja1m-kabila2.vercel.app)
